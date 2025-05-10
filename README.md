@@ -18,3 +18,32 @@ This project analyzes a comprehensive dataset of 64,016 video game titles across
 | Call of Duty: Ghosts           | 28.80                  |
 
 - Call of Duty dominates the top 10, with 6 entries, showing the franchise's massive success.
+
+## Sales by Console
+- PS2 is the best-selling console (1027.76M), followed by Xbox 360 (859.79M) and PS3 (839.70M).
+- Modern consoles (PS4, X360, PS3) dominate, but older systems like PS1 (546.25M) still hold strong historical sales.
+
+## Genre Performance
+- Sports (1187.51M), Action (1125.89M), and Shooter (995.50M) are the top-selling genres.
+- Role-Playing (426.80M) and Racing (525.75M) also perform well.
+- Least popular genres: Education (0.97M), Board Games (0.33M), and Sandbox (1.89M).
+
+## Regional Sales Breakdown
+| Region | Sales Contribution (%) | Top Genre    | Top Game (Region-Specific)  |
+|--------|------------------------|--------------|-----------------------------|
+| NA     | 50.64%                 | Sports       | Grand Theft Auto V (26.19M) |
+| JP     | 10.41%                 | Role-Playing | Hot Shots Golf (4.26M)      |
+| PAL    | 29.02%                 | Action       | Grand Theft Auto V (28.14M) |
+| Others | 9.86%                  | Sports       | Grand Theft Auto V (8.32M)  |
+
+- North America (NA) is the largest market, contributing over 50% of total sales.
+- Japan (JP) prefers Role-Playing games, while Europe (PAL) favors Action titles.
+
+## Critic Score Impact on Sales
+- Weak positive correlation (0.28) between critic scores and sales.
+- Highest-rated games (10/10) often have low sales, suggesting niche appeal (e.g., Fusion: Genesis, The Legend of Zelda Collector's Edition).
+- Average Critic Scores by Region:
+-- NA: 2.11
+-- JP: 1.56
+-- PAL: 2.28
+-- Other: 2.28
