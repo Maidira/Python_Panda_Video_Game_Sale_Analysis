@@ -43,7 +43,7 @@ This project analyzes a comprehensive dataset of 64,016 video game titles across
 - Weak positive correlation (0.28) between critic scores and sales.
 - Highest-rated games (10/10) often have low sales, suggesting niche appeal (e.g., Fusion: Genesis, The Legend of Zelda Collector's Edition).
 - Average Critic Scores by Region:
--- NA: 2.11
--- JP: 1.56
--- PAL: 2.28
--- Other: 2.28
+  - NA: 2.11
+  - JP: 1.56
+  - PAL: 2.28
+  - Other: 2.28
