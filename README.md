@@ -47,3 +47,24 @@ This project analyzes a comprehensive dataset of 64,016 video game titles across
   - JP: 1.56
   - PAL: 2.28
   - Other: 2.28
+
+## Yearly Sales Trends
+- Peak sales occurred in 2008 (538.11M), likely due to the rise of Xbox 360 & PS3.
+- Sales declined post-2008, possibly due to market saturation and mobile gaming competition.
+- Recent years (2016-2018) show stabilization (~150-200M per year).
+
+## Publisher & Developer Performance
+- Top Publishers by Sales:
+  1. Activision (722.77M) – Dominated by Call of Duty.
+  2. Electronic Arts (644.13M) – Strong in Sports (FIFA, Madden).
+  3. Ubisoft (462.57M) – Known for Assassin’s Creed, Far Cry.
+  
+- Highest Critic Scores (Avg.):
+  - Bimboosoft (9.4)
+  - 2D Boy (9.2)
+  - Psyonix Studios (9.2)
+
+
+
+
+
